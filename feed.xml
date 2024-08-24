@@ -3,10 +3,30 @@
     <title>apop</title>
     <link href="https://lm.github.io/feed.xml" rel="self" />
     <link href="https://lm.github.io" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2024-08-25T04:59:06+08:00</updated>
     <author>
         <name>lliaop</name>
     </author>
     <id>https://lm.github.io</id>
 
+    <entry>
+        <title>dvs</title>
+        <author>
+            <name>lliaop</name>
+        </author>
+        <link href="https://lm.github.io/dvs.html"/>
+        <id>https://lm.github.io/dvs.html</id>
+
+        <updated>2024-08-25T04:59:06+08:00</updated>
+            <summary>
+                <![CDATA[
+                    asda
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>asda</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
